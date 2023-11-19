@@ -1,7 +1,12 @@
 # ERROR LOGS DATABASE
-![Interface](https://github.com/dyte-submissions/november-2023-hiring-codesmith17/assets/121955562/6f257e05-6d26-407d-8cb0-80fe6a267a4f)
+![Screenshot 2023-11-19 220941](https://github.com/codesmith17/ERROR_LOGS_DATABASE/assets/121955562/dc3a5841-562f-4e78-8d35-021226cde9f1)
 
-https://github.com/dyte-submissions/november-2023-hiring-codesmith17/assets/121955562/1916161a-82ff-4600-bcbd-f2486a147a5b
+
+
+https://github.com/codesmith17/ERROR_LOGS_DATABASE/assets/121955562/ad446014-c0ba-4622-9732-f79e6409008f
+
+
+
 
 Welcome to the Log Viewer repository! Log Viewer is a powerful web-based tool designed to simplify the viewing and searching of log data stored in an SQLite database. The tool is equipped with features such as error logging, log search capabilities, and a modern user interface for a seamless experience.
 
