@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "algorithm": "cpp",
+    "xutility": "cpp",
+    "ostream": "cpp",
+    "vector": "cpp",
+    "xtree": "cpp"
+  }
+}
